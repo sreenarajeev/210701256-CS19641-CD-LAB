@@ -1,0 +1,4 @@
+//Constant
+a=6-2
+//Constant
+b=4*6
